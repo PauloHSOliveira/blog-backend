@@ -20,7 +20,7 @@
     "strapi-plugin-email": "3.6.8",
     "strapi-plugin-upload": "3.6.8",
     "strapi-plugin-i18n": "3.6.8",
-    "strapi-connector-bookshelf": "3.6.8",
+    "strapi-connector-bookshelf": "3.6.9",
     "knex": "0.21.18",
     "mime-types": "^2.1.34",
     "sqlite3": "5.0.2",
