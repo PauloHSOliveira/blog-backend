@@ -23,7 +23,7 @@
     "strapi-connector-bookshelf": "3.6.8",
     "knex": "0.21.18",
     "mime-types": "^2.1.34",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.1.4",
     "strapi-plugin-graphql": "3.6.8"
   },
   "author": {
